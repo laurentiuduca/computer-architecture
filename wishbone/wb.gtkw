@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Mar 25 15:05:03 2020
+[*]
+[dumpfile] "/home/laur/lucru/cn/book/wishbone/wb.vcd"
+[dumpfile_mtime] "Wed Mar 25 15:01:32 2020"
+[dumpfile_size] 7445
+[savefile] "/home/laur/lucru/cn/book/wishbone/wb.gtkw"
+[timestart] 0
+[size] 1541 845
+[pos] -1 -1
+*-18.481709 551000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.wb_bus.
+[sst_width] 223
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 374
+@28
+top.clk_i
+top.rst_i
+top.wb_bus.arb.req_i[1:0]
+top.wb_bus.grant_o[1:0]
+top.m0_cyc
+top.m0_stb
+top.slave0.slave_stb_i
+top.m0_we
+top.master0.m_ack_i
+top.master0.transfer_done
+@22
+top.master0.m_addr_o[31:0]
+top.master0.m_data_o[31:0]
+top.master0.m_data_i[31:0]
+@28
+top.m1_cyc
+top.m1_stb
+top.slave1.slave_stb_i
+top.m1_we
+top.master1.m_ack_i
+top.master1.transfer_done
+@22
+top.master1.m_addr_o[31:0]
+top.master1.m_data_o[31:0]
+top.master1.m_data_i[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

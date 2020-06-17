@@ -1,0 +1,25 @@
+#NET "switch[0]" LOC="L13";
+#NET "switch[1]" LOC="L14";
+#NET "switch[2]" LOC="H18";
+#NET "switch[3]" LOC="N17";
+
+NET "clk" LOC = "C9";
+NET "reset" LOC = "L13";
+
+#NET "J1_0" LOC = "N15"; 
+#NET "J1_1" LOC = "N14"; 
+#NET "J1_2" LOC = "E15"; 
+#NET "J1_3" LOC = "V7";
+
+#leds
+NET "cntb[0]" LOC="D4";
+NET "cntb[1]" LOC="C3";
+NET "cntb[2]" LOC="D6";
+NET "cntb[3]" LOC="E6";
+NET "cntb[4]" LOC="D13";
+NET "cntb[5]" LOC="A7";
+NET "cntb[6]" LOC="G9";
+NET "cntb[7]" LOC="A8";
+
+NET "uart_REC_dataH" LOC = "R13";
+NET "uart_XMIT_dataH" LOC = "P13";

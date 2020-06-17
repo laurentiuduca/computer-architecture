@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Sat Mar 21 11:06:48 2020
+[*]
+[dumpfile] "/home/laur/lucru/cn/single_pulse/single_pulse.vcd"
+[dumpfile_mtime] "Sat Mar 21 11:05:37 2020"
+[dumpfile_size] 1297
+[savefile] "/home/laur/lucru/cn/single_pulse/single_pulse.vcd.savefile"
+[timestart] 0
+[size] 1541 845
+[pos] -1 -1
+*-25.685465 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] single_pulse_tb.
+[sst_width] 223
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@28
+single_pulse_tb.u_single_pulse.clk
+single_pulse_tb.u_single_pulse.rst_l
+single_pulse_tb.u_single_pulse.ub
+single_pulse_tb.u_single_pulse.ubsing
+@29
+single_pulse_tb.u_single_pulse.state
+[pattern_trace] 1
+[pattern_trace] 0

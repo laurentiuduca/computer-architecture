@@ -1,0 +1,41 @@
+# VeriFLA Logic Analyzer Project File
+
+# Serial port
+# On Windows this would be COM5 or similar
+#/dev/ttyUSB0
+LA.portName=/dev/ttyUSB0
+LA.baudRate=115200
+
+# Memory
+# ====
+LA.memWords=128
+# Data input width and indentical samples bits (clones) must be multiple of 8.
+LA.dataWordLenBits=8
+LA.clonesWordLenBits=16
+LA.triggerMatchMemAddr=8
+
+
+# Generated verilog
+# ====
+LA.timescaleUnit=1ns
+LA.timescalePrecision=10ps
+# clockPeriod expressed in [timescaleUnit]
+LA.clockPeriod=20
+
+# User data signals
+LA.totalSignals=8
+# Big endian (1) or Little endian (0).
+LA.signalGroups=3
+# Group 0
+LA.groupName.0=SDA
+LA.groupSize.0=1
+LA.groupEndian.0=0
+# Group 1
+LA.groupName.1=SCL
+LA.groupSize.1=1
+LA.groupEndian.1=0
+# Group 2
+LA.groupName.2=bitcount
+LA.groupSize.2=6
+LA.groupEndian.2=0
+

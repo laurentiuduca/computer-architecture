@@ -1,0 +1,130 @@
+$date
+	Fri Mar 20 18:18:42 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module test $end
+$var wire 1 ! ubsing $end
+$var reg 1 " clk $end
+$var reg 1 # rst_l $end
+$var reg 1 $ ub $end
+$scope module sp1 $end
+$var wire 1 " clk $end
+$var wire 1 # rst_l $end
+$var wire 1 $ ub $end
+$var wire 1 ! ubsing $end
+$var reg 1 % next_state $end
+$var reg 1 & next_ubsing_reg $end
+$var reg 1 ' state $end
+$var reg 1 ( ubsing_reg $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5000
+1"
+#10000
+0"
+#15000
+1"
+#20000
+0"
+#25000
+1"
+1#
+#30000
+0"
+#35000
+1"
+#40000
+0"
+#45000
+1"
+#50000
+0"
+#55000
+1&
+1%
+1"
+1$
+#60000
+0"
+#65000
+0&
+1!
+1(
+1'
+1"
+#70000
+0"
+#75000
+0!
+0(
+1"
+#80000
+0"
+#85000
+1"
+#90000
+0"
+#95000
+1"
+#100000
+0"
+#105000
+0%
+1"
+0$
+#110000
+0"
+#115000
+0'
+1"
+#120000
+0"
+#125000
+1"
+#130000
+0"
+#135000
+1"
+#140000
+0"
+#145000
+1"
+#150000
+0"
+#155000
+1"
+#160000
+0"
+#165000
+1"
+#170000
+0"
+#175000
+1"
+#180000
+0"
+#185000
+1"
+#190000
+0"
+#195000
+1"
+#200000
+0"

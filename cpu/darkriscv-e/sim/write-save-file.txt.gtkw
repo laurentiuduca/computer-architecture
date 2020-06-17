@@ -1,0 +1,79 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri Mar 13 13:48:46 2020
+[*]
+[dumpfile] "/home/laur/lucru/cn/riscv/darkriscv-e/sim/darksocv.vcd"
+[dumpfile_mtime] "Fri Mar 13 13:34:48 2020"
+[dumpfile_size] 34878
+[savefile] "/home/laur/lucru/cn/riscv/darkriscv-e/sim/write-save-file.txt.gtkw"
+[timestart] 2007900
+[size] 1541 845
+[pos] -1 -1
+*-16.633968 2305000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] darksimv.
+[treeopen] darksimv.darksocv.
+[sst_width] 226
+[signals_width] 268
+[sst_expanded] 1
+[sst_vpaned_height] 374
+@28
+darksimv.darksocv.RES
+@22
+darksimv.darksocv.core0.OPCODE[6:0]
+darksimv.darksocv.core0.RESMODE[3:0]
+darksimv.darksocv.core0.DPTR[3:0]
+darksimv.darksocv.core0.DATA_ADDR[31:0]
+darksimv.darksocv.core0.DATA_INPUT[31:0]
+darksimv.darksocv.core0.DATA_OUTPUT[31:0]
+@28
+darksimv.darksocv.core0.flush_instr_pipe[1:0]
+darksimv.darksocv.core0.WR_EN
+@22
+darksimv.darksocv.core0.INSTR_ADDR[31:0]
+darksimv.darksocv.core0.INSTR_DATA[31:0]
+@23
+darksimv.darksocv.core0.REG_INSTR_DATA[31:0]
+@28
+darksimv.darksocv.core0.CLK
+darksimv.darksocv.HLT
+@22
+darksimv.darksocv.instr_rd[31:0]
+darksimv.darksocv.instr_dcd[31:0]
+darksimv.darksocv.instr_ex[31:0]
+darksimv.darksocv.core0.PC[31:0]
+darksimv.darksocv.core0.NXPC[31:0]
+darksimv.darksocv.core0.NXPC2[31:0]
+darksimv.darksocv.core0.\RG[0][31:0]
+darksimv.darksocv.core0.\RG[1][31:0]
+darksimv.darksocv.core0.\RG[2][31:0]
+darksimv.darksocv.core0.\RG[3][31:0]
+darksimv.darksocv.core0.\RG[4][31:0]
+darksimv.darksocv.core0.\RG[5][31:0]
+darksimv.darksocv.core0.\RG[6][31:0]
+darksimv.darksocv.core0.\RG[7][31:0]
+darksimv.darksocv.core0.\RG[8][31:0]
+darksimv.darksocv.core0.\RG[9][31:0]
+darksimv.darksocv.core0.\RG[10][31:0]
+darksimv.darksocv.core0.\RG[11][31:0]
+darksimv.darksocv.core0.\RG[12][31:0]
+darksimv.darksocv.core0.\RG[13][31:0]
+darksimv.darksocv.core0.\RG[14][31:0]
+darksimv.darksocv.core0.\RG[15][31:0]
+darksimv.darksocv.\RAM[1008][31:0]
+darksimv.darksocv.\RAM[1009][31:0]
+darksimv.darksocv.\RAM[1010][31:0]
+darksimv.darksocv.\RAM[1011][31:0]
+darksimv.darksocv.\RAM[1012][31:0]
+darksimv.darksocv.\RAM[1013][31:0]
+darksimv.darksocv.\RAM[1014][31:0]
+darksimv.darksocv.\RAM[1015][31:0]
+darksimv.darksocv.\RAM[1016][31:0]
+darksimv.darksocv.\RAM[1017][31:0]
+darksimv.darksocv.\RAM[1018][31:0]
+darksimv.darksocv.\RAM[1019][31:0]
+darksimv.darksocv.\RAM[1020][31:0]
+darksimv.darksocv.\RAM[1021][31:0]
+darksimv.darksocv.\RAM[1022][31:0]
+darksimv.darksocv.\RAM[1023][31:0]
+[pattern_trace] 1
+[pattern_trace] 0

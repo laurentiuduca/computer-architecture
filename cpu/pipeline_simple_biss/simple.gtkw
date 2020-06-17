@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Sat Mar 28 10:12:30 2020
+[*]
+[dumpfile] "/home/laur/lucru/cn/pipeline/pipeline_simplu_biss/simple.vcd"
+[dumpfile_mtime] "Sat Mar 28 10:10:40 2020"
+[dumpfile_size] 3176
+[savefile] "/home/laur/lucru/cn/pipeline/pipeline_simplu_biss/simple.gtkw"
+[timestart] 0
+[size] 1541 845
+[pos] -29 -29
+*-18.353838 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 223
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@28
+test_pipeline_biss.clk
+test_pipeline_biss.rst
+@24
+test_pipeline_biss.a[15:0]
+test_pipeline_biss.b[15:0]
+test_pipeline_biss.c[15:0]
+test_pipeline_biss.d[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

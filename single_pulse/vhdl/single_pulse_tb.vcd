@@ -1,0 +1,160 @@
+$date
+  Sat Mar 21 18:38:01 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module single_pulse_tb $end
+$var reg 1 ! t_clk $end
+$var reg 1 " t_rst_l $end
+$var reg 1 # t_ub $end
+$var reg 1 $ t_ubsing $end
+$var reg 1 % stop_simulation $end
+$scope module u_single_pulse $end
+$var reg 1 & clk $end
+$var reg 1 ' rst_l $end
+$var reg 1 ( ub $end
+$var reg 1 ) ubsing $end
+$var reg 1 * next_state $end
+$var reg 1 + state $end
+$var reg 1 , ubsing_reg $end
+$var reg 1 - next_ubsing_reg $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+0"
+0#
+0$
+0%
+1&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+#5000000
+0!
+0&
+#10000000
+1!
+1&
+#15000000
+0!
+0&
+#20000000
+1!
+1"
+1&
+1'
+#25000000
+0!
+0&
+#30000000
+1!
+1&
+#35000000
+0!
+0&
+#40000000
+1!
+1&
+#45000000
+0!
+0&
+#50000000
+1!
+1#
+1&
+1(
+1*
+1-
+#55000000
+0!
+0&
+#60000000
+1!
+1$
+1&
+1)
+1+
+1,
+0-
+#65000000
+0!
+0&
+#70000000
+1!
+0$
+1&
+0)
+0,
+#75000000
+0!
+0&
+#80000000
+1!
+1&
+#85000000
+0!
+0&
+#90000000
+1!
+1&
+#95000000
+0!
+0&
+#100000000
+1!
+0#
+1&
+0(
+0*
+#105000000
+0!
+0&
+#110000000
+1!
+1&
+0+
+#115000000
+0!
+0&
+#120000000
+1!
+1&
+#125000000
+0!
+0&
+#130000000
+1!
+1&
+#135000000
+0!
+0&
+#140000000
+1!
+1&
+#145000000
+0!
+0&
+#150000000
+1!
+1%
+1&
+#155000000
+0!
+0&
+#160000000
